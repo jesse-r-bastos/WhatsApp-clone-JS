@@ -1,0 +1,977 @@
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-J                                S (master)
+$ npm start
+
+> curso-javascript-projeto-whatsapp-clone@1.0.0 start C:\xampp\htdocs\Udemy\HCod                                e\JavaScript\WhatsApp-Clone-JS
+> webpack-dev-server
+
+Project is running at http://localhost:8080/
+webpack output is served from /dist
+Hash: d2c5536990313d2a7ebc
+Version: webpack 3.1.0
+Time: 27075ms
+               Asset     Size  Chunks                    Chunk Names
+         0.bundle.js  1.53 MB       0  [emitted]  [big]
+       app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+pdf.worker.bundle.js  1.91 MB    2, 0  [emitted]  [big]  pdf.worker
+   [1] (webpack)/buildin/global.js 509 bytes {1} {2} [built]
+   [2] ./node_modules/process/browser.js 5.42 kB {1} {2} [built]
+  [19] ./node_modules/buffer/index.js 48.6 kB {1} {2} [built]
+  [44] ./node_modules/url/url.js 23.3 kB {1} {2} [built]
+  [52] (webpack)-dev-server/client?http://localhost:8080 5.59 kB {1} {2} [built]
+  [58] ./node_modules/strip-ansi/index.js 161 bytes {1} {2} [built]
+  [60] (webpack)-dev-server/client/socket.js 856 bytes {1} {2} [built]
+  [92] (webpack)-dev-server/client/overlay.js 3.6 kB {1} {2} [built]
+  [98] (webpack)/hot/emitter.js 77 bytes {1} {2} [built]
+ [103] ./node_modules/pdfjs-dist/build/pdf.worker.js 1.53 MB {0} {2} [built]
+ [118] multi (webpack)-dev-server/client?http://localhost:8080 ./src/app.js 40 b                                ytes {1} [built]
+ [119] ./src/app.js 148 bytes {1} [built]
+ [120] ./src/controller/WhatsAppController.js 31.5 kB {1} [built]
+ [171] multi (webpack)-dev-server/client?http://localhost:8080 pdfjs-dist/build/                                pdf.worker.entry.js 40 bytes {2} [built]
+ [172] ./node_modules/pdfjs-dist/build/pdf.worker.entry.js 690 bytes {2} [built]
+    + 158 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: bb4a78c24299342634f7
+Version: webpack 3.1.0
+Time: 799ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: a3bcb1ae8169a9799590
+Version: webpack 3.1.0
+Time: 1384ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 7eabccbbfdaae33021c9
+Version: webpack 3.1.0
+Time: 475ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: a3bcb1ae8169a9799590
+Version: webpack 3.1.0
+Time: 1789ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 01089d25877e1bec8ce0
+Version: webpack 3.1.0
+Time: 516ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 7579f2bb7fa75181343b
+Version: webpack 3.1.0
+Time: 1204ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.6 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 382eeeee9f04fd041dac
+Version: webpack 3.1.0
+Time: 2480ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.7 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: a6394232639485033268
+Version: webpack 3.1.0
+Time: 2422ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.7 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 62aec7500702a9249a67
+Version: webpack 3.1.0
+Time: 492ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [120] ./src/controller/WhatsAppController.js 31.7 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: d67017669e9b0848fb88
+Version: webpack 3.1.0
+Time: 300ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 399 bytes {1} [built] [failed] [1 error]
+    + 172 hidden modules
+
+ERROR in ./src/utils/Format.js
+Module parse failed: C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\sr                                c\utils\Format.js Unexpected token (41:46)
+You may need an appropriate loader to handle this file type.
+|     static timeStampToTime(timeStamp){
+|
+|         console.log(timeStampToTime(timeStamp);
+|
+|         return (timeStamp && typeof timeStamp.toDate() === 'function')
+ @ ./src/controller/WhatsAppController.js 11:0-43
+ @ ./src/app.js
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./src/app.js
+webpack: Failed to compile.
+webpack: Compiling...
+Hash: d67017669e9b0848fb88
+Version: webpack 3.1.0
+Time: 573ms
+ [116] ./src/utils/Format.js 399 bytes {1} [built] [failed] [1 error]
+    + 172 hidden modules
+
+ERROR in ./src/utils/Format.js
+Module parse failed: C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\sr                                c\utils\Format.js Unexpected token (41:46)
+You may need an appropriate loader to handle this file type.
+|     static timeStampToTime(timeStamp){
+|
+|         console.log(timeStampToTime(timeStamp);
+|
+|         return (timeStamp && typeof timeStamp.toDate() === 'function')
+ @ ./src/controller/WhatsAppController.js 11:0-43
+ @ ./src/app.js
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./src/app.js
+webpack: Failed to compile.
+webpack: Compiling...
+Hash: c9cc81d4811b83919805
+Version: webpack 3.1.0
+Time: 1314ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 1.18 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 00b46b0285fd9358b711
+Version: webpack 3.1.0
+Time: 1067ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 410 bytes {1} [built] [failed] [1 error]
+    + 172 hidden modules
+
+ERROR in ./src/utils/Format.js
+Module parse failed: C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\sr                                c\utils\Format.js Unexpected token (41:56)
+You may need an appropriate loader to handle this file type.
+|     static timeStampToTime(timeStamp){
+|
+|         console.log('timeStampToTime', timeStamp, typeof);
+|
+|         return (timeStamp && typeof timeStamp.toDate() === 'function')
+ @ ./src/controller/WhatsAppController.js 11:0-43
+ @ ./src/app.js
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./src/app.js
+webpack: Failed to compile.
+webpack: Compiling...
+Hash: 459dff7e0ee2d112e527
+Version: webpack 3.1.0
+Time: 310ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 1.21 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 5725baf3792f4e2fe0cf
+Version: webpack 3.1.0
+Time: 1274ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 1.2 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+webpack: Compiling...
+Hash: 6861e85f91dcaa19cfa0
+Version: webpack 3.1.0
+Time: 281ms
+        Asset     Size  Chunks                    Chunk Names
+app.bundle.js  3.69 MB       1  [emitted]  [big]  app
+ [116] ./src/utils/Format.js 1.12 kB {1} [built]
+    + 172 hidden modules
+webpack: Compiled successfully.
+
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-J                                S (master)
+$ npm install -g firebase-tools
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://git                                hub.com/request/request/issues/3142
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+C:\Users\JRB-I5\AppData\Roaming\npm\firebase -> C:\Users\JRB-I5\AppData\Roaming\                                npm\node_modules\firebase-tools\lib\bin\firebase.js
+
+> re2@1.15.9 install C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-t                                ools\node_modules\re2
+> install-from-cache --artifact build/Release/re2.node --host-var RE2_DOWNLOAD_M                                IRROR || npm run rebuild
+
+Trying https://github.com/uhop/node-re2/releases/download/1.15.9/win32-x64-79.br                                 ...
+Trying https://github.com/uhop/node-re2/releases/download/1.15.9/win32-x64-79.gz                                 ...
+Building locally ...
+
+> re2@1.15.9 rebuild C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-t                                ools\node_modules\re2
+> node-gyp rebuild
+
+
+C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\re2                                >if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\                                npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\nod                                e-gyp.js" rebuild )  else (node "C:\Program Files\nodejs\node_modules\npm\node_m                                odules\node-gyp\bin\node-gyp.js" rebuild )
+gyp ERR! find VS
+gyp ERR! find VS msvs_version not set from command line or npm config
+gyp ERR! find VS VCINSTALLDIR not set, not running in VS Command Prompt
+gyp ERR! find VS could not use PowerShell to find Visual Studio 2017 or newer
+gyp ERR! find VS looking for Visual Studio 2015
+gyp ERR! find VS - not found
+gyp ERR! find VS not looking for VS2013 as it is only supported up to Node.js 8
+gyp ERR! find VS
+gyp ERR! find VS **************************************************************
+gyp ERR! find VS You need to install the latest version of Visual Studio
+gyp ERR! find VS including the "Desktop development with C++" workload.
+gyp ERR! find VS For more information consult the documentation at:
+gyp ERR! find VS https://github.com/nodejs/node-gyp#on-windows
+gyp ERR! find VS **************************************************************
+gyp ERR! find VS
+gyp ERR! configure error
+gyp ERR! stack Error: Could not find any Visual Studio installation to use
+gyp ERR! stack     at VisualStudioFinder.fail (C:\Program Files\nodejs\node_modu                                les\npm\node_modules\node-gyp\lib\find-visualstudio.js:121:47)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node                                -gyp\lib\find-visualstudio.js:74:16
+gyp ERR! stack     at VisualStudioFinder.findVisualStudio2013 (C:\Program Files\                                nodejs\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:351:14)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node                                -gyp\lib\find-visualstudio.js:70:14
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node                                -gyp\lib\find-visualstudio.js:372:16
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node                                -gyp\lib\util.js:54:7
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node                                -gyp\lib\util.js:33:16
+gyp ERR! stack     at ChildProcess.exithandler (child_process.js:310:5)
+gyp ERR! stack     at ChildProcess.emit (events.js:315:20)
+gyp ERR! stack     at maybeClose (internal/child_process.js:1026:16)
+gyp ERR! System Windows_NT 6.1.7601
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodej                                s\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\nod                                e_modules\re2
+gyp ERR! node -v v13.14.0
+gyp ERR! node-gyp -v v5.1.0
+gyp ERR! not ok
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! re2@1.15.9 rebuild: `node-gyp rebuild`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the re2@1.15.9 rebuild script.
+npm ERR! This is probably not a problem with npm. There is likely additional log                                ging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T12_36_12                                _635Z-debug.log
+(node:8176) UnhandledPromiseRejectionWarning: 1
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:8176) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This                                 error originated either by throwing inside of an async function without a catch                                 block, or by rejecting a promise which was not handled with .catch(). To termina                                te the node process on unhandled promise rejection, use the CLI flag `--unhandle                                d-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejectio                                ns_mode). (rejection id: 1)
+(node:8176) [DEP0018] DeprecationWarning: Unhandled promise rejections are depre                                cated. In the future, promise rejections that are not handled will terminate the                                 Node.js process with a non-zero exit code.
+
+> protobufjs@6.10.2 postinstall C:\Users\JRB-I5\AppData\Roaming\npm\node_modules                                \firebase-tools\node_modules\protobufjs
+> node scripts/postinstall
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.3.1 (node_modules\fi                                rebase-tools\node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@                                2.3.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"}                                )
+
++ firebase-tools@9.2.2
+added 642 packages from 422 contributors in 330.432s
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-J                                S (master)
+$ firebase login
+
+Error: Cannot run login in non-interactive mode. See login:ci to generate a toke                                n for use in non-interactive environments.
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-J                                S (master)
+$ ^C
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-J                                S (master)
+$ npm install -g firebase-tools
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://git                                hub.com/request/request/issues/3142
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+C:\Users\JRB-I5\AppData\Roaming\npm\firebase -> C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.3.1 (node_modules\firebase-tools\node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ firebase-tools@9.2.2
+updated 1 package in 146.517s
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase login
+
+Error: Cannot run login in non-interactive mode. See login:ci to generate a token for use in non-interactive environments.
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ ^C
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase login --interactive
+i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+
+? Allow Firebase to collect CLI usage and error reporting information? (Y/n) Y
+? Allow Firebase to collect CLI usage and error reporting information? Yes
+i  To change your data collection preference at any time, run `firebase logout` and log in again.
+
+Visit this URL on this device to log in:
+https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1025320798&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+
+Waiting for authentication...
+
++  Success! Logged in as jesse.r.bastos@gmail.com
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase init functions
+
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+? Are you ready to proceed? (Y/n) Y
+? Are you ready to proceed? Yes
+
+=== Project Setup
+
+First, let's associate this project directory with a Firebase project.
+You can create multiple project aliases by running firebase use --add,
+but for now we'll just set up a default project.
+
+? Please select an option: Don't set up a default project
+
+=== Functions Setup
+
+A functions directory will be created in your project with a Node.js
+package pre-configured. Functions can be deployed with firebase deploy.
+
+? What language would you like to use to write Cloud Functions? (Use arrow keys)
+? What language would you like to use to write Cloud Functions? JavaScript
+? Do you want to use ESLint to catch probable bugs and enforce style? (y/N) y
+? Do you want to use ESLint to catch probable bugs and enforce style? Yes
++  Wrote functions/package.json
++  Wrote functions/.eslintrc.js
++  Wrote functions/index.js
++  Wrote functions/.gitignore
+? Do you want to install dependencies with npm now? (Y/n) Y
+? Do you want to install dependencies with npm now? Yes
+
+
+> protobufjs@6.10.2 postinstall C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\node_modules\protobufjs
+> node scripts/postinstall
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+added 300 packages from 236 contributors and audited 300 packages in 218.329s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+i  Writing configuration info to firebase.json...
+i  Writing project information to .firebaserc...
+i  Writing gitignore file to .gitignore...
+
++  Firebase initialization complete!
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions
+
+Error: No currently active project.
+To run this command, you need to specify a project. You have two options:
+- Run this command with --project <alias_or_project_id>.
+- Set an active project by running firebase use --add, then rerun this command.
+To list all the Firebase projects to which you have access, run firebase projects:list.
+To learn about active projects for the CLI, visit https://firebase.google.com/docs/cli#project_aliases
+
+
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions ^C
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project WhatsApp-Clone-JS
+
+Error: Invalid project id: WhatsApp-Clone-JS.
+Note: Project id must be all lowercase.
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone
+
+Error: Missing permissions required for functions deploy. You must have permission iam.serviceAccounts.ActAs on service account whatsapp-clone@appspot.gserviceaccount.com.
+
+To address this error, ask a project Owner to assign your account the "Service Account User" role from this URL:
+
+https://console.cloud.google.com/iam-admin/iam?project=whatsapp-clone
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ ^C
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone
+
+Error: Missing permissions required for functions deploy. You must have permission iam.serviceAccounts.ActAs on service account whatsapp-clone@appspot.gserviceaccount.com.
+
+To address this error, ask a project Owner to assign your account the "Service Account User" role from this URL:
+
+https://console.cloud.google.com/iam-admin/iam?project=whatsapp-clone
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone
+
+Error: Missing permissions required for functions deploy. You must have permission iam.serviceAccounts.ActAs on service account whatsapp-clone@appspot.gserviceaccount.com.
+
+To address this error, ask a project Owner to assign your account the "Service Account User" role from this URL:
+
+https://console.cloud.google.com/iam-admin/iam?project=whatsapp-clone
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions
+!  JSON error trying to load C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\.firebaserc
+
+Error: No currently active project.
+To run this command, you need to specify a project. You have two options:
+- Run this command with --project <alias_or_project_id>.
+- Set an active project by running firebase use --add, then rerun this command.
+To list all the Firebase projects to which you have access, run firebase projects:list.
+To learn about active projects for the CLI, visit https://firebase.google.com/docs/cli#project_aliases
+
+
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone
+!  JSON error trying to load C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\.firebaserc
+
+Error: Missing permissions required for functions deploy. You must have permission iam.serviceAccounts.ActAs on service account whatsapp-clone@appspot.gserviceaccount.com.
+
+To address this error, ask a project Owner to assign your account the "Service Account User" role from this URL:
+
+https://console.cloud.google.com/iam-admin/iam?project=whatsapp-clone
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone
+!  JSON error trying to load C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\.firebaserc
+
+Error: Missing permissions required for functions deploy. You must have permission iam.serviceAccounts.ActAs on service account whatsapp-clone@appspot.gserviceaccount.com.
+
+To address this error, ask a project Owner to assign your account the "Service Account User" role from this URL:
+
+https://console.cloud.google.com/iam-admin/iam?project=whatsapp-clone
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+!  JSON error trying to load C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\.firebaserc
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  7:1  error  Expected indentation of 2 spaces but found 3  indent
+  8:1  error  Expected indentation of 2 spaces but found 3  indent
+
+? 2 problems (2 errors, 0 warnings)
+  2 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T18_41_09_393Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  7:1  error  Expected indentation of 2 spaces but found 3  indent
+  8:1  error  Expected indentation of 2 spaces but found 3  indent
+
+? 2 problems (2 errors, 0 warnings)
+  2 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T18_45_27_230Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  4:1  error  Expected indentation of 2 spaces but found 3  indent
+  5:1  error  Expected indentation of 2 spaces but found 3  indent
+
+? 2 problems (2 errors, 0 warnings)
+  2 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T18_51_47_902Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  3:71  error  Block must not be padded by blank lines       padded-blocks
+  4:1   error  Trailing spaces not allowed                   no-trailing-spaces
+  5:1   error  Expected indentation of 2 spaces but found 3  indent
+
+? 3 problems (3 errors, 0 warnings)
+  3 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T18_56_36_734Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  3:71  error  Block must not be padded by blank lines       padded-blocks
+  4:1   error  Trailing spaces not allowed                   no-trailing-spaces
+  5:1   error  Expected indentation of 2 spaces but found 3  indent
+
+? 3 problems (3 errors, 0 warnings)
+  3 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_00_24_443Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+Oops! Something went wrong! :(
+
+ESLint: 7.18.0
+
+ESLint couldn't find a configuration file. To set up a configuration file for this project, please run:
+
+    eslint --init
+
+ESLint looked for configuration files in C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions and its ancestors. If it found none, it then looked in your home directory.
+
+If you think you already have a configuration file or if you need more help, please stop by the ESLint chat room: https://eslint.org/chat/help
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 2
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 2
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_10_21_264Z-debug.log
+
+Error: functions predeploy error: Command terminated with non-zero exit code2
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR " run lint
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\%RESOURCE_DIR\package.json
+npm ERR! errno -4058
+npm ERR! enoent ENOENT: no such file or directory, open 'C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\%RESOURCE_DIR\package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_11_44_973Z-debug.log
+
+Error: functions predeploy error: Command terminated with non-zero exit code4294963238
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions  --project whatsapp-clone-9c109
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  3:71  error  Block must not be padded by blank lines       padded-blocks
+  4:1   error  Trailing spaces not allowed                   no-trailing-spaces
+  5:1   error  Expected indentation of 2 spaces but found 3  indent
+  5:42  error  Block must not be padded by blank lines       padded-blocks
+
+? 4 problems (4 errors, 0 warnings)
+  4 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_16_21_143Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  3:1  error  Expected indentation of 2 spaces but found 3   indent
+  4:4  error  Newline required at end of file but not found  eol-last
+
+? 2 problems (2 errors, 0 warnings)
+  2 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_42_52_805Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
+
+C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions\index.js
+  1:27  error  Strings must use doublequote                   quotes
+  3:1   error  Expected indentation of 2 spaces but found 3   indent
+  4:4   error  Newline required at end of file but not found  eol-last
+
+? 3 problems (3 errors, 0 warnings)
+  3 errors and 0 warnings potentially fixable with the `--fix` option.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! functions@ lint: `eslint .`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the functions@ lint script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\JRB-I5\AppData\Roaming\npm-cache\_logs\2021-01-22T19_46_03_897Z-debug.log
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: spawn npm --prefix "C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions" run lint ENOENT
+    at notFoundError (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+Emitted 'error' event on ChildProcess instance at:
+    at ChildProcess.cp.emit (C:\Users\JRB-I5\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\cross-env\node_modules\cross-spawn\lib\enoent.js:30:37)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) {
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'spawn npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  path: 'npm --prefix "C:\\xampp\\htdocs\\Udemy\\HCode\\JavaScript\\WhatsApp-Clone-JS\\functions" run lint',
+  spawnargs: []
+}
+
+Error: functions predeploy error: Command terminated with non-zero exit code1
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+$ firebase deploy --only functions
+
+=== Deploying to 'whatsapp-clone-9c109'...
+
+i  deploying functions
+Running command: npm --prefix "%RESOURCE_DIR%" run lint
+
+> functions@ lint C:\xampp\htdocs\Udemy\HCode\JavaScript\WhatsApp-Clone-JS\functions
+> eslint .
+
++  functions: Finished running predeploy script.
+i  functions: ensuring required API cloudfunctions.googleapis.com is enabled...
+i  functions: ensuring required API cloudbuild.googleapis.com is enabled...
+!  functions: missing required API cloudbuild.googleapis.com. Enabling now...
+!  functions: missing required API cloudfunctions.googleapis.com. Enabling now...
+
+Error: Your project whatsapp-clone-9c109 must be on the Blaze (pay-as-you-go) plan to complete this command. Required API cloudbuild.googleapis.com can't be enabled until the upgrade is complete. To upgrade, visit the following URL:
+
+https://console.firebase.google.com/project/whatsapp-clone-9c109/usage/details
+
+JRB-I5@JRB-I5-PC MINGW64 /c/xampp/htdocs/Udemy/HCode/JavaScript/WhatsApp-Clone-JS (master)
+
+
+

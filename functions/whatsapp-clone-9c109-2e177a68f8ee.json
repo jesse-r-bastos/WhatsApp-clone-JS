@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whatsapp-clone-9c109",
+  "private_key_id": "2e177a68f8eebc22326d748916d1d08403f4237b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkmkp5x9aCHIRC\nr3o2yg9GiUqVB9IDWGRm/2eUMBCFVNtjOXpCbATXztCXg0Yd4awUebLKF1sAZ+J4\nE1oAFxl+PUzEfcFzA6P5bN2BvZvPBk5jy34ssisMlka5oLOLqvPa4Z/CjEiZl9Z6\nrFocQA+8xQ+VCW9zsSXTjSpBJzj3SdgMDC6IHm5h1DnCZELAW3WzlC88uQvzrSqn\nEQQQQfJ/6ly7SJ+H16Apo05tVEeAyY7vbrB+vua7gh5tUWjuR+UCsZQiymUbuyv+\n7R1grRa4+IgUMJqSnaWAq1nFrbSsHyicqJhf3xSMFv8BdYuuXdvwjo2iker1Am1f\n+e8hDScJAgMBAAECggEAB8G7Gn3NuKQwIeXbzibrvRzVakw76/svgRCOYKP6tVPM\nQmLoJWbqfAKDny45IMmclrrs71vWJqDeod60li5AfevU2SodcoZ0hNmp3xYwuFrx\nWP/TDndncrCGvPLrHxzzYKhTA2OhvLY0beO/G9dzfmdxbmorScIKeKuNdxRKeZG6\njPqiR6rNlhdN8+u4IAsuPd7y4zPks7xvYXcUkjVZXM9ihsl6gGzDJ+HYJ/xWJA6p\n8DXqlLFGa9DriNiIARQwAxazJ6OKwFsOhJZ53fgMGGnCmVkYJnQW5ZJkr5c2SxdO\njdACdfrokRaCxBAAI9ON44gSNWJLcUkMDW3Ye7IMkQKBgQDTbv0o20vGtl9DMBkP\nYHXD0H3WRDMG07oJXJIcVBayWvB3MkdQGpgY6SFT0z5ZcvA/yH7D6/iEQPnmjERF\nBf23gKpg43xhgTqsmlNWJnA8KXbtIqo8OIvc2cKsPv/VXCl8k4xMnFJBEZasy1pF\nQCcOnTO9yvuRYcT2G9g+TrZdOQKBgQDHTEv0/9JKwdYWb1c5+++TpesWfVgdy4YT\nnJ+qQeZ3KSw5rS/UdHK8/Bn9BRQV3x0/3niT4XtjuY2btdFl9ngSRqERa5K9fwTC\n8AOqXXadCaNcnu2e07v7mJ398Uk9xe05zRzP5MzoXhLKyqreKtlAZIGYdse3Pws/\nQRK0ec7oUQKBgAnFpnO99vmfMjXzwiTAy5CaUUaW7ljRblbCbYpbpJTnuRd5PmyI\nXiFAnSa3q7kMo+f+x0Uc4eaS7jnmn70k8r4Jd1Z1DSmghGq300Q3EJbnP7TkFkQk\nROqXMfUuEDr3QH+efiyISRDy1Cj2WRy8Q1HcmCicehYVE7pgPRVcI/eZAoGBAJ4Q\nqyWTSCw2dB+zCtFYOXk23K8nlp1678naLOASCEF2DDdqXkb4XI/6unnsbzOxkzc2\nsRdIfF5pqiBXIc7mnfCQx+pTETzt4s7hIWcbXZnLLR+mhPu1HqC7OINRvS8bLbzs\nKu/PnZymD+16s+4kuc3SaN6NRnTVsYvnhnhRK4MhAoGBAJchj95hClXljPLP9xWb\nohQlkK8jffop1I3fmnDPiLf1H4CS24CjMBrjWHj9M+Lk9Db5iiA4KHA2T9nWul1/\nveHGx4PkcgsIHhwr00rPOYlDdw9RSf5h4yfQdPOe4g8g1Q5BPukAWucbaeKuo083\n0kMjJrkIvn40g0uxH01SIVW0\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsapp-clone-9c109@appspot.gserviceaccount.com",
+  "client_id": "104041484610456356613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsapp-clone-9c109%40appspot.gserviceaccount.com"
+}
